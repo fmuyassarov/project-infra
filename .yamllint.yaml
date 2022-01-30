@@ -5,4 +5,4 @@ yaml-files:
   - '.yamllint'
 
 rules:
-  trailing-spaces: enable
+  trailing-spaces: disable
